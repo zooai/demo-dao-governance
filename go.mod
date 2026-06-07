@@ -1,6 +1,6 @@
 module github.com/zoolabs/demos/dao-governance
 
-go 1.26.1
+go 1.26.4
 
 require (
 	github.com/hanzoai/base v0.25.0
